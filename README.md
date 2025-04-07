@@ -3,14 +3,12 @@
 ​The provided Flutter application integrates several functionalities aimed at enhancing user experience and facilitating effective bug reporting.
 
 ## Table of contents
-* [InstaBug Assesment](instabug-assesment.md)
-* [Table of contents](#table-of-contents)
 * [Structure](#structure)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Dependencies](#dependencies)
-* [Real Test](real-test.md)
+* [Real Test](#real-test)
 
 
 ## Structure
