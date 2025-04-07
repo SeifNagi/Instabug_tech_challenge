@@ -24,7 +24,7 @@ lib/
 │   └── home_page.dart
 └── main.dart
 ``` 
-<a name="prerequisites"/>
+
 ## Prerequisites
 
 - Flutter SDK version 3.22.0 or higher.
