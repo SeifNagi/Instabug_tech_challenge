@@ -1,7 +1,20 @@
 # InstaBug Assesment
 
 ​The provided Flutter application integrates several functionalities aimed at enhancing user experience and facilitating effective bug reporting.
-We used the MCV with below structure:
+
+## Table of contents
+* [InstaBug Assesment](instabug-assesment.md)
+* [Table of contents](#table-of-contents)
+* [Structure](#structure)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Dependencies](#dependencies)
+* [Real Test](real-test.md)
+
+
+## Structure
+The used structure is the MVC as per below:
 
 ``` 
 lib/
@@ -13,12 +26,13 @@ lib/
 │   └── home_page.dart
 └── main.dart
 ``` 
-**Prerequisites:**
+<a name="prerequisites"/>
+## Prerequisites
 
 - Flutter SDK version 3.22.0 or higher.
 - Dart SDK version 2.15.0 or higher.
 
-**Installation:**
+## Installation
 
 1. Clone the repository:
 
@@ -31,13 +45,13 @@ lib/
 3. Install the required dependencies:
    flutter pub get
 
-**Usage:**
+## Usage
 
 - To run the application on an emulator or connected device:
 
   flutter run
 
-**Dependencies:**
+## Dependencies
 
 ```markdown
 
@@ -53,7 +67,8 @@ lib/
 
 - `path_provider: ^2.1.4`:
 ```
-**Real Test:**
+
+## Real Test
 
 https://github.com/user-attachments/assets/5678dcdd-c824-4814-ae5c-b73a7a66e2f3
 
