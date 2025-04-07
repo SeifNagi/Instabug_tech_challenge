@@ -22,11 +22,11 @@ lib/
 
 1. Clone the repository:
 
-   git clone https://github.com/SeifNagi/Instabug_challenge.git
+   git clone https://github.com/SeifNagi/Instabug_tech_challenge.git
    
 2. Navigate to the project directory:
 
-   cd Instabug_challenge
+   cd Instabug_tech_challenge
    
 3. Install the required dependencies:
    flutter pub get
