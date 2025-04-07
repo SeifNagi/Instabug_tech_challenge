@@ -52,3 +52,15 @@ lib/
 - `sensors_plus: ^6.1.1`:
 
 - `path_provider: ^2.1.4`:
+
+**Real Test:**
+
+Video:
+https://github.com/user-attachments/assets/e6731f82-9fc8-4602-80e5-2bf29e813c52
+
+Image from dashboard:
+https://github.com/user-attachments/assets/abf19503-2c95-4f76-9841-84a5fff238ce
+
+
+
+
